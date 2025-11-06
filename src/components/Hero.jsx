@@ -28,9 +28,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
           >
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-              A passionate AI Learners with a strong interest in integrating computer vision,
-              robotics, and embedded systems to solve real-world problems. Currently exploring
-              advanced AI deployment techniques and edge intelligence.
+              I am a fresh graduate and a passionate AI learner with a deep curiosity to explore every aspect of artificial intelligence — from the fundamentals of neural network design to real-world applications across various domains.
             </p>
           </motion.div>
 
